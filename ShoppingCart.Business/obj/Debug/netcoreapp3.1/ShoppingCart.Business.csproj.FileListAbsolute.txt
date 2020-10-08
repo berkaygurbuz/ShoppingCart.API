@@ -1,0 +1,13 @@
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.deps.json
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.dll
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Business.pdb
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.dll
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Entities.dll
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.DataAccess.pdb
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\bin\Debug\netcoreapp3.1\ShoppingCart.Entities.pdb
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.csprojAssemblyReference.cache
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.AssemblyInfoInputs.cache
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.AssemblyInfo.cs
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.csproj.CopyComplete
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.dll
+C:\Users\Berkay\source\repos\ShoppingCart\ShoppingCart.Business\obj\Debug\netcoreapp3.1\ShoppingCart.Business.pdb

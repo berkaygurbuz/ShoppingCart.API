@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShoppingCart.API</name>
+    </assembly>
+    <members>
+        <member name="M:ShoppingCart.API.Controller.CartsController.getCart">
+            <summary>
+            get shopping cart
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.CartsController.totalCart">
+            <summary>
+            show the total price of cart
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.CartsController.productToCart(System.Int32,System.Int32)">
+            <summary>
+            add product to cart
+            </summary>
+            <param name="id"></param>
+            <param name="quantity"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.CartsController.deleteProductInCart(System.Int32)">
+            <summary>
+            to delete product in cart, if exists
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.CartsController.buy">
+            <summary>
+            buy the chart NOTE: delete all product in cart and stock
+            </summary>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.ProductsController.get">
+            <summary>
+            get all products
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.ProductsController.getById(System.Int32)">
+            <summary>
+            get products by ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.ProductsController.createPrdct(ShoppingCart.Entities.Products)">
+            <summary>
+            creating product
+            </summary>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.ProductsController.updatePrdct(ShoppingCart.Entities.Products)">
+            <summary>
+            update product
+            </summary>
+            <param name="products"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ShoppingCart.API.Controller.ProductsController.deletePrdct(System.Int32)">
+            <summary>
+            delete product by id
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>
