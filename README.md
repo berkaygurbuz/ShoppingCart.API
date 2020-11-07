@@ -22,3 +22,4 @@ I used the codefirst approach. I used swagger nuGet package to more understandab
 ### View
 ![image](https://user-images.githubusercontent.com/61121747/98441960-d31db700-2112-11eb-8038-38b27ac5184c.png)
 
+### To run swagger don't forget to add [your localhost]/swagger
